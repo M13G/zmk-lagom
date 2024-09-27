@@ -1,5 +1,5 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_lagom
-    def_bool $(shields_list_contains,lagom)
+config SHIELD_LAGOM
+    def_bool $(shields_list_contains, lagom)
