@@ -1,2 +1,2 @@
-config SHIELD_LAGOM
-    def_bool $(shields_list_contains,lagom)
+config SHIELD_NIBBLE
+    def_bool $(shields_list_contains,nibble)
