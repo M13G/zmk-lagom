@@ -6,7 +6,7 @@ if SHIELD_NIBBLE
 config ZMK_KEYBOARD_NAME
     default "nibble"
 
-CONFIG_ZMK_PM_SOFT_OFF	
+config ZMK_PM_SOFT_OFF	
     default n
 
 if ZMK_DISPLAY
